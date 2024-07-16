@@ -1,0 +1,14 @@
+# Пункт a #
+/build/*
+# Пункт b #
+*.jar
+!module2.jar
+# Пункт c #
+application-local.properties
+# Пункт d #
+/.idea/*
+# Пункт e #
+/.idea_copy/*
+!/.idea_copy/workspace.xml
+# Пункт 2.2 #
+!build.*
